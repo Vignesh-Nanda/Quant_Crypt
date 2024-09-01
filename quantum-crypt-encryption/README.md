@@ -18,7 +18,7 @@ This project provides a Command-Line Interface (CLI) tool designed for managing 
    Navigate to your desired directory and clone the repository using:
    
    ```bash
-   git clone https://github.com/DHARANI2D/quantum-resistant-encryption.git
+   git clone https://github.com/Vignesh-Nanda/Quant_Crypt.git
    ```
 
 ### Setting Up Virtual Environment
